@@ -6,7 +6,6 @@
 <sup>1</sup>[Technical University of Darmstadt](https://www.visinf.tu-darmstadt.de/research_vi/index.en.jsp) <sup>2</sup>[Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/publications) <sup>3</sup>[hessian.AI](https://hessian.ai/research/)
 
 <a href="https://arxiv.org/abs/2504.12939"><img src='https://img.shields.io/badge/arXiv-disentangle_channels-red' alt='Paper PDF'></a>
-<a href="https://github.com/visinf/disentangle-channels"><img src='https://img.shields.io/badge/Code-Coming_soon-green' alt='Project Page'></a>
 
 <center>
     <img src="./teaser_figure.png" alt="Description" width="700">
